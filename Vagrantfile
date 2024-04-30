@@ -71,8 +71,8 @@ Vagrant.configure("2") do |config|
     
     # Clone the repository and build the project
     web.vm.provision "shell", inline: <<-SHELL, privileged: false
-      git clone https://github.com/Pedro-M-S/Vagrant---Test.git
-      cd Vagrant---Test/react-and-spring-data-rest-basic
+      git clone https://github.com/pedrodgp/vagrant-test.git
+      cd vagrant-test/react-and-spring-data-rest-basic
       chmod u+x gradlew
       ./gradlew clean build
 
