@@ -2189,3 +2189,9 @@ w
 G.idea/sonarlint/issuestore/6/f/6fbc5fde26c3531e67089f365d86f32a596c9548,3\3\3344d6f060fe23d107bfecd2af6aeb1431375a29
 w
 G.idea/sonarlint/issuestore/6/f/6f1a5ccf3515361e4f46dcf34fcf8ae2f06d926a,3\f\3f13e81de52c471b92b581744bbe8abae98b6481
+—
+gca3p2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/ServletInitializer.java,6\6\66315ff4fa47d0c49292c8a071de73c1a708d013
+p
+@ca3p2/react-and-spring-data-rest-basic/build/tmp/war/MANIFEST.MF,2\7\27cfcf0f45ba3bdc25aeed884015446790d9b5cf
+t
+Dca3p2/react-and-spring-data-rest-basic/build/tmp/bootWar/MANIFEST.MF,e\5\e5d3ab61dd4c6185d6f8bcd1607365f5768a3f5e
